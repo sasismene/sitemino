@@ -7,10 +7,24 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 0px 10px;
+    margin: 1px 7px;
     border-radius: 20px;
-    width: 80px;
+
 }
 .navb-log{
-    width: 60%;
+    width: 50%;
+}
+.column{
+    width: 49%;
+}
+/*
+.video-home{
+    width: 49%;
+    height: 300px;
+}
+*/
+
+
+.video-home{
+    width: 49%;
 }
